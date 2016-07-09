@@ -1,20 +1,20 @@
 DH Junk Code Maker
 ========
 
-A program to generate code Delphi trash and remove some firms achieve a malware AV done in Delphi.
+A program to generate code Delphi trash and remove some firms achieve a malware AV done in Delphi.<br>
 
-You have the following options:
+You have the following options:<br>
 
-[+] Generate constant
-[+] Generate variables
-[+] Generate several for
-[+] Generate functions with variables
-[+] Generate functions for
-[+] Generate code with all the above functions together
-[+] You can set a lontigud for each option
+[+] Generate constant<br>
+[+] Generate variables<br>
+[+] Generate several for<br>
+[+] Generate functions with variables<br>
+[+] Generate functions for<br>
+[+] Generate code with all the above functions together<br>
+[+] You can set a lontigud for each option<br>
 
-An image : 
+An image : <br>
 
 ![image](http://doddyhackman.webcindario/images/dhjunkcodemaker.jpg)
 
-Good Bye
+Good Bye<br>
